@@ -1,5 +1,5 @@
 # Query-Scoring-Algorithm
-A project for COMP10002 Foundation of Algorithm subject semester 2
+A project for Unimelb COMP10002 Foundation of Algorithm subject semester 2
 
 ## Function
 It takes queries as input in form of words. Then it will finds the words from the queries that match with the line 
