@@ -12,3 +12,7 @@ test0-out.txt is the output from the query "ali lat long" for alice-eg.txt<br />
 test1-out.txt is the output from the query "f dow long way" for pg11.txt<br />
 test2-out.txt is the output from the query "ali lat long" for alice-eg.txt<br />
 test3-out.txt is the output from the query "f dow long way" for pg11.txt<br />
+
+## How To Use
+Compile the ass1.c code using gcc. Then use it from terminal in this format:
+./(name of compiled exec file) (list of query separated by space) < (the name of the text file to search the query from) 
